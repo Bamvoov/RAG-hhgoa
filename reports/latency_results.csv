@@ -1,0 +1,51 @@
+query,path,cache,total_ms,retrieval_ms
+what is India capital,slow-large,miss,0.10280399999373913,0.04848999998330328
+what is retrieval augmented generation,slow-large,miss,0.09645899996257867,0.03582699997650707
+what is India capital,cache,hit,0.0713949999635588,0
+what is retrieval augmented generation,cache,hit,0.05360700004075625,0
+what is India capital,cache,hit,0.049041999943710834,0
+what is retrieval augmented generation,cache,hit,0.04881900002828843,0
+what is India capital,cache,hit,0.04826900004673007,0
+what is retrieval augmented generation,cache,hit,0.04813799995417867,0
+what is India capital,cache,hit,0.1597009999727561,0
+what is retrieval augmented generation,cache,hit,0.0513400000272668,0
+what is India capital,cache,hit,0.048255999956836604,0
+what is retrieval augmented generation,cache,hit,0.06014699999923323,0
+what is India capital,cache,hit,0.049837000005936716,0
+what is retrieval augmented generation,cache,hit,0.04970800000592135,0
+what is India capital,cache,hit,0.04781299992373533,0
+what is retrieval augmented generation,cache,hit,0.048571000036190526,0
+what is India capital,cache,hit,0.04776699995545641,0
+what is retrieval augmented generation,cache,hit,0.15946899998198205,0
+what is India capital,cache,hit,0.054190000014386897,0
+what is retrieval augmented generation,cache,hit,0.04996199993456685,0
+what is India capital,cache,hit,0.048047000007045426,0
+what is retrieval augmented generation,cache,hit,0.33727199996747004,0
+what is India capital,cache,hit,0.0580649999619709,0
+what is retrieval augmented generation,cache,hit,0.05099700001665042,0
+what is India capital,cache,hit,0.048266999954194034,0
+what is retrieval augmented generation,cache,hit,0.049826999941160466,0
+what is India capital,cache,hit,0.04781299998057875,0
+what is retrieval augmented generation,cache,hit,0.04955000002837551,0
+what is India capital,cache,hit,0.047661999985848524,0
+what is retrieval augmented generation,cache,hit,0.04832800004805904,0
+what is India capital,cache,hit,0.04718700000694298,0
+what is retrieval augmented generation,cache,hit,0.04823899996608816,0
+what is India capital,cache,hit,0.07049799995684225,0
+what is retrieval augmented generation,cache,hit,0.05099700001665042,0
+what is India capital,cache,hit,0.047376999987136514,0
+what is retrieval augmented generation,cache,hit,0.048276999962126865,0
+what is India capital,cache,hit,0.04678999999896405,0
+what is retrieval augmented generation,cache,hit,0.047937999909208884,0
+what is India capital,cache,hit,0.04640300005576137,0
+what is retrieval augmented generation,cache,hit,0.06791999999222753,0
+what is India capital,cache,hit,0.09091700007957115,0
+what is retrieval augmented generation,cache,hit,0.050340999962372734,0
+what is India capital,cache,hit,0.04804200000307901,0
+what is retrieval augmented generation,cache,hit,0.04935600003364016,0
+what is India capital,cache,hit,0.047708999886708625,0
+what is retrieval augmented generation,cache,hit,0.0492849998749989,0
+what is India capital,cache,hit,0.04798499998059924,0
+what is retrieval augmented generation,cache,hit,0.048479000042789266,0
+what is India capital,cache,hit,0.04740399998581779,0
+what is retrieval augmented generation,cache,hit,0.13410899998689274,0

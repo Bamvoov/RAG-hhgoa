@@ -1,0 +1,6 @@
+chunking: {active_strategy: metadata_aware, chunk_size: 450, overlap: 60, semantic_threshold: 0.55}
+embedding: {model_name: all-MiniLM-L6-v2}
+retrieval: {vector_top_k: 5, bm25_top_k: 5, rrf_k: 60}
+cache: {ttl_minutes: 10, similarity_threshold: 0.92}
+routing: {fast_path_threshold: 0.95, slow_path_threshold: 0.75}
+latency: {retrieval_target_ms: 200, cache_target_ms: 10}

@@ -1,0 +1,5 @@
+class PipelineError(Exception): stage='pipeline'
+class STTError(PipelineError): stage='transcribe'
+class RetrievalError(PipelineError): stage='retrieve'
+class GenerationError(PipelineError): stage='generate'
+class GuardrailError(PipelineError): stage='guardrail'

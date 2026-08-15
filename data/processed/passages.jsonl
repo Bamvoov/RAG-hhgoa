@@ -1,0 +1,2 @@
+{"id": "sample-1", "text": "India is a country in South Asia. Its capital is New Delhi.", "source_query_id": "q1", "language": "en", "content_hash": "e93ab35045e707ae16f243099ddc81854e20276174f359fd0e4f65843b6fa657"}
+{"id": "sample-2", "text": "Retrieval augmented generation grounds answers in retrieved passages.", "source_query_id": "q2", "language": "en", "content_hash": "1b2e82b5c7660f55c7e60b2ed9355b5f943f1f283bed719e7954aa24f323df34"}
